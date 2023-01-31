@@ -1,6 +1,6 @@
 <h1 align="center">
 
-![mahmoud_said](https://readme-typing-svg.herokuapp.com/?font=Inter&color=3A9CDF&size=30&weight=700&lines=Hi+My+name+is+Mahmoud+Said;Front-End+developer)
+![mahmoud_said](https://readme-typing-svg.herokuapp.com/?font=Inter&color=E1D7C6&size=30&weight=700&lines=Hi+My+name+is+Mahmoud+Said;Front-End+developer)
  
 </h1>
 
