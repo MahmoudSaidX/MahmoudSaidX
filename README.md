@@ -1,4 +1,11 @@
-<h1 align="center">Hi 👋, I'm Mahmoud Said Hassan</h1>
+<h1 align="center">
+
+![mahmoud_said](https://readme-typing-svg.herokuapp.com/?font=Inter&color=3A9CDF&size=30&weight=700&lines=Hi+My+name+is+Mahmoud+Said;Front-End+developer)
+ 
+</h1>
+
+
+
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
 - 🌱 I’m currently learning **TypeScript**
