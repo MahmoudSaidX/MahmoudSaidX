@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [Resume](https://flowcv-user-file-uploads-prod.s3.eu-central-1.amazonaws.com/websiteButton/q6g3kiahx9lpk7ey9vwddubl3l.pdf)
 
-<img src="https://i.ibb.co/xDZmXxW/123.gif" alt="123" border="0" />
+
 
 
 ## 🌐 Socials:
