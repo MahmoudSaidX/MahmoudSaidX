@@ -102,14 +102,5 @@ Building scalable web applications with modern frontend technologies.
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mahmoudsaidx&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudsaidx&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=mahmoudsaidx&theme=github-dark-blue&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmoudsaidx&theme=github-compact&hide_border=true" />
 </p>
